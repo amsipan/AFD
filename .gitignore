@@ -1,0 +1,4 @@
+/bin/*.class
+/src/*.class
+.vscode/settings.json
+README.md
